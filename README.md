@@ -1,6 +1,8 @@
 # Last Text at One Percent
 
 ![make.fun competition badge](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876.svg)
+![make.fun rank badge](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/vantawhiteout/mf-u-azazex-last-text-at-one-percent-ba9fc876/rank.svg)
+![make.fun reward badge](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/vantawhiteout/mf-u-azazex-last-text-at-one-percent-ba9fc876/reward.svg)
 
 An entry for [make.fun's "Last Text at One Percent" competition](https://make.fun/c/u-azazex-last-text-at-one-percent-ba9fc876).
 
