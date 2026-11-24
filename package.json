@@ -1,0 +1,10 @@
+{
+  "name": "last-text-at-one-percent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One final text message from a phone at one percent battery.",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
